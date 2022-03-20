@@ -14,11 +14,11 @@ This project makes use of geometric interpretations to enhance the written expla
 
 ## Chapter 1 - Statistics Fundamentals
 
-1.1 - Population Parameters for Normal Distributions
+1.1 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
 
-1.2 - Sampling a Distribution & Bessel's Correction
+1.2 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
-1.3 - Hypothesis Testing and p-Values
+1.3 - [Hypothesis Testing and p-Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Hypothesis%20Testing%20and%20p-Values.ipynb)
 
 1.4 - The Standard Normal Distribution and t-Values
 
