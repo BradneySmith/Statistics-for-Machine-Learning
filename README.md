@@ -10,6 +10,7 @@
 
 1.4 - The Standard Normal Distribution and t-Values
 
+&nbsp;
 
 ## Chapter 2 - Regression
 
@@ -23,7 +24,10 @@
 
 2.5 - Quantile Regression
 
+&nbsp;
 
 ## Chapter 3 - Dimension Reduction
 
 3.1 - Principle Component Analysis
+
+&nbsp;
