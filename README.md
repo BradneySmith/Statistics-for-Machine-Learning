@@ -26,7 +26,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 ## Chapter 2 - Regression
 
-2.1 - Covariance and the Covariance Matrix
+2.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
 
 2.2 - Correlation and R Squared
 
