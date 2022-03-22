@@ -28,13 +28,17 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
 
-2.2 - Correlation and R Squared  **[In Progress]**
+2.2 - Pearson's Correlation Coefficient  **[In Progress]**
 
-2.3 - Linear Regression and Least Squares
+2.3 - R Squared
 
-2.4 - Logistic Regression
+2.4 - Spearman's Rank Correlation
 
-2.5 - Quantile Regression
+2.5 - Linear Regression and Least Squares
+
+2.6 - Logistic Regression
+
+2.7 - Quantile Regression
 
 &nbsp;
 
