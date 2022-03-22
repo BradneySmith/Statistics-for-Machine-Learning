@@ -18,9 +18,9 @@ This project makes use of geometric interpretations to enhance the written expla
 
 1.2 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
-1.3 - [Hypothesis Testing and p-Values](#https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Hypothesis%20Testing%20and%20p-Values.ipynb)  **In Progress**
+1.3 - [Hypothesis Testing and p-Values](#https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Hypothesis%20Testing%20and%20p-Values.ipynb)  **[In Progress]**
 
-1.4 - The Standard Normal Distribution and t-Values  **In Progress**
+1.4 - The Standard Normal Distribution and t-Values  **[In Progress]**
 
 &nbsp;
 
@@ -28,7 +28,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
 
-2.2 - Correlation and R Squared  **In Progress**
+2.2 - Correlation and R Squared  **[In Progress]**
 
 2.3 - Linear Regression and Least Squares
 
