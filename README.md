@@ -30,7 +30,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.2 - Pearson's Correlation Coefficient  **[In Progress]**
 
-2.3 - R Squared
+2.3 - Coefficient of Determination, R Squared
 
 2.4 - Spearman's Rank Correlation
 
