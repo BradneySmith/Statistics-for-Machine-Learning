@@ -28,11 +28,11 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
 
-2.2 - Pearson's Correlation Coefficient and R Squared **[In Progress]**
+2.2 - [Pearson's Correlation Coefficient and R Squared](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.2%20-%20Pearson's%20Correlation%20Coefficient%20and%20R%20Squared.ipynb)
 
 2.3 - Spearman's Rank Correlation
 
-2.4 - Least Squares and Linear Regression
+2.4 - Least Squares and Linear Regression  **[In Progress]**
 
 2.5 - Logistic Regression
 
