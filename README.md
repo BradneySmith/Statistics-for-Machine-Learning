@@ -40,9 +40,11 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.4 - Least Squares and Linear Regression  **[In Progress]**
 
-2.5 - Logistic Regression
+2.5 - Multiple Regression
 
-2.6 - Quantile Regression
+2.6 - Logistic Regression
+
+2.7 - Quantile Regression
 
 &nbsp;
 
