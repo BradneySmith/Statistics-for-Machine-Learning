@@ -20,7 +20,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 1.3 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
-1.3 - The Basics of Hypothesis Testing and p-Values (#https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Hypothesis%20Testing%20and%20p-Values.ipynb)  **[In Progress]**
+1.3 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
 
 1.4 - Student's t-Distribution
 
