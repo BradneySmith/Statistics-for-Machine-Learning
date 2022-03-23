@@ -38,7 +38,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.3 - Spearman's Rank Correlation
 
-2.4 - Least Squares and Linear Regression  **[In Progress]**
+2.4 - Least Squares and Simple Linear Regression  **[In Progress]**
 
 2.5 - Multiple Regression
 
