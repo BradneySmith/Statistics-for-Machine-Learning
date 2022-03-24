@@ -46,6 +46,8 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.7 - Quantile Regression
 
+2.8 - Gradient Descent
+
 &nbsp;
 
 ## Chapter 3 - Dimension Reduction
