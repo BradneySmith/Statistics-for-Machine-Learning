@@ -38,7 +38,7 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.3 - Spearman's Rank Correlation
 
-2.4 - Least Squares and Simple Linear Regression  **[In Progress]**
+2.4 - [Least Squares and Simple Linear Regression](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.3%20-%20Least%20Squares%20and%20Simple%20Linear%20Regression.ipynb)
 
 2.5 - Multiple Regression
 
