@@ -20,44 +20,48 @@ This project makes use of geometric interpretations to enhance the written expla
 
 1.3 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
-1.3 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
+1.4 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
 
-1.4 - Student's t-Distribution
+1.5 - Student's t-Distribution
 
-1.5 - The Binomial Distribution
+1.6 - The Binomial Distribution
 
-1.6 - The Poisson Distribution
-
-&nbsp;
-
-## Chapter 2 - Regression
-
-2.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
-
-2.2 - [Pearson's Correlation Coefficient and R Squared](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.2%20-%20Pearson's%20Correlation%20Coefficient%20and%20R%20Squared.ipynb)
-
-2.3 - [Least Squares and Simple Linear Regression](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.3%20-%20Least%20Squares%20and%20Simple%20Linear%20Regression.ipynb)
-
-2.4 - Multiple Regression
-
-2.5 - Spearman's Rank Correlation
-
-2.6 - Logistic Regression
-
-2.7 - Quantile Regression
-
-2.8 - Gradient Descent
+1.7 - The Poisson Distribution
 
 &nbsp;
 
-## Chapter 3 - Dimension Reduction
+## Chapter 2 - Machine Learning Fundamentals
 
-3.1 - Principle Component Analysis
+2.1 - Introduction to Machine Learning
+
+2.2 - Eigenvectors and Eigenvalues
+
+2.3 - Gradient Descent
+
+2.4 - Principal Component Analysis
 
 &nbsp;
 
-## Chapter 4 - Classification
+## Chapter 3 - Supervised Learning: Regression
 
+3.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
+
+3.2 - [Pearson's Correlation Coefficient and R Squared](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.2%20-%20Pearson's%20Correlation%20Coefficient%20and%20R%20Squared.ipynb)
+
+3.3 - [Least Squares and Simple Linear Regression](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Regression/2.3%20-%20Least%20Squares%20and%20Simple%20Linear%20Regression.ipynb)
+
+3.4 - Multiple Regression
+
+3.5 - Spearman's Rank Correlation
+
+3.6 - Logistic Regression
+
+3.7 - Quantile Regression
+
+&nbsp;
+
+
+## Chapter 4 - Supervised Learning: Classification
 4.1 - k-Nearest Neighbors
 
-&nbsp;
+&nbsp; 
