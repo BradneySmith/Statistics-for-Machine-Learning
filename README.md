@@ -34,11 +34,13 @@ This project makes use of geometric interpretations to enhance the written expla
 
 2.1 - Introduction to Machine Learning
 
-2.2 - Eigenvectors and Eigenvalues
+2.2 - The Data Science Pipline
 
-2.3 - Gradient Descent
+2.3 - Eigenvectors and Eigenvalues
 
-2.4 - Principal Component Analysis
+2.4 - Gradient Descent
+
+2.5 - Principal Component Analysis
 
 &nbsp;
 
