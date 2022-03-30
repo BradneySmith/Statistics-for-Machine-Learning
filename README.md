@@ -54,14 +54,17 @@ This project makes use of geometric interpretations to enhance the written expla
 
 3.5 - Spearman's Rank Correlation
 
-3.6 - Logistic Regression
-
-3.7 - Quantile Regression
+3.6 - Quantile Regression
 
 &nbsp;
 
 
 ## Chapter 4 - Supervised Learning: Classification
-4.1 - k-Nearest Neighbors
+
+4.1 - Logistic Regression
+
+4.2 - k-Nearest Neighbors
+
+4.3 - Support Vector Machines
 
 &nbsp; 
