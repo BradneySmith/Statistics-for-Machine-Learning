@@ -34,8 +34,6 @@ This repository began as a collection of notebooks covering statistics topics th
 
 2.4 - Gradient Descent
 
-2.5 - Principal Component Analysis
-
 &nbsp;
 
 ## Chapter 3 - Supervised Learning: Regression
@@ -67,4 +65,16 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp; 
 
-## Chapter 5 - Neural Networks and Deep Learning
+## Chapter 5 - Unsupervised Learning
+
+5.1 - K-Means Clustering
+
+5.2 - Hierarchical Clustering
+
+5.3 - Principal Component Analysis
+
+5.4 - Dendrogram
+
+&nbsp;
+
+## Chapter 6 - Neural Networks and Deep Learning
