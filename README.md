@@ -70,3 +70,5 @@ This project makes use of geometric interpretations to enhance the written expla
 4.3 - Support Vector Machines
 
 &nbsp; 
+
+## Chapter 5 - Neural Networks and Deep Learning
