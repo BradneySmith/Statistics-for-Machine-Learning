@@ -63,6 +63,8 @@ This repository began as a collection of notebooks covering statistics topics th
 
 4.3 - Support Vector Machines
 
+4.4 - Random Forests
+
 &nbsp; 
 
 ## Chapter 5 - Neural Networks and Deep Learning
