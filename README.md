@@ -2,13 +2,7 @@
 
 ## Overview
 
-This repository serves as a log for my personal study of statistics in machine learning methods. The content is divided into sections, each containing Jupyter Notebooks to support an overarching theme. For example, *Chapter 2 - Regression* covers a number of topics that are useful in building different regression models, then covers implementing these models using pure Python functions/classes (written by myself), followed by standard implementations from data science libraries such as Sci-Kit Learn and Statmodels. The goal of this project is to improve my understanding of current machine learning methods, by building a solid knowledge from first principles up to the latest technology.
-
-&nbsp;
-
-## Highlights
-
-This project makes use of geometric interpretations to enhance the written explanations, and as such is an excellent opportunity to continuously improve my data visualisation skills. Some highlights from this project are shown below, many of which are plots and graphics which best showcase some of the concepts covered.
+This repository began as a collection of notebooks covering statistics topics that are useful fo understanding machine learning methods. Over time, this has evolved to cover topics from the very fundamentals of statistics, linear algebra and data science, up to building many of the most common machine learning in industry from scratch. The repository is split into chapters, each tackling a specific topic. Each chapter is made up of several notebooks which dive into the theory behind different areas of machine learning. These derive the relevent equations using KaTex, implement the methods using Python, and present visualisations using Matplotlib. The end of every notebook contains a references section which points to useful resources which can be used to explore each topic further.
 
 &nbsp;
 
