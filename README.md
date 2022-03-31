@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository began as a collection of notebooks covering statistics topics that are useful for understanding machine learning methods. Over time, this has evolved to cover topics from the very fundamentals of statistics, linear algebra and data science, to building many of the most common machine learning models in industry from scratch. The repository is split into chapters, each tackling a specific topic. Each chapter is made up of several notebooks which dive into the theory behind different areas of machine learning. These derive the relevent equations using KaTex, implement the methods using Python, and present visualisations using Matplotlib. The end of every notebook contains a references section which points to useful resources which can be used to explore each topic further.
+This repository began as a collection of notebooks covering statistics topics that are useful for understanding machine learning methods. Over time, this has evolved to cover topics from the very fundamentals of statistics, linear algebra and data science, to building many of the most common machine learning models in industry from scratch. The repository is split into chapters, each tackling a specific topic. Each chapter is made up of several notebooks which dive into the theory behind different areas of machine learning. These derive the relevent equations using KaTex, implement the methods programmatically using Python, and present visualisations using Matplotlib. The end of every notebook contains a references section which points to useful resources that can be used to explore each topic further.
 
 &nbsp;
 
