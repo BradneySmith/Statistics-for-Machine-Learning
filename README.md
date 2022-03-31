@@ -71,9 +71,11 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.2 - Hierarchical Clustering
 
-5.3 - Principal Component Analysis
+5.3 - Anomaly Detection
 
-5.4 - Dendrogram
+5.4 - Principal Component Analysis
+
+5.5 - Dendrogram
 
 &nbsp;
 
