@@ -8,19 +8,21 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Chapter 1 - Statistics Fundamentals
 
-1.1 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
+1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics.ipynb)
 
-1.2 - The Standard Normal Distribution and Z-Scores
+1.2 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
-1.3 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
+1.3 - The Standard Normal Distribution and Z-Scores
 
-1.4 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
+1.4 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.4-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
 
-1.5 - Student's t-Distribution
+1.5 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
 
-1.6 - The Binomial Distribution
+1.6 - Student's t-Distribution
 
-1.7 - The Poisson Distribution
+1.7 - The Binomial Distribution
+
+1.8 - The Poisson Distribution
 
 &nbsp;
 
@@ -33,6 +35,8 @@ This repository began as a collection of notebooks covering statistics topics th
 2.3 - Eigenvectors and Eigenvalues
 
 2.4 - Gradient Descent
+
+2.5 - Backpropagation
 
 &nbsp;
 
@@ -80,3 +84,13 @@ This repository began as a collection of notebooks covering statistics topics th
 &nbsp;
 
 ## Chapter 6 - Neural Networks and Deep Learning
+
+&nbsp;
+
+___
+
+## Reading List
+
+[1] [An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins)](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
+
+[2] [Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore)](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
