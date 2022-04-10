@@ -8,7 +8,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Chapter 1 - Statistics Fundamentals
 
-1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics.ipynb)
+1.1 - [Introduction to Statistics and Data Visualisation](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics%20and%20Data%20Visualisation.ipynb)
 
 1.2 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
 
@@ -91,6 +91,6 @@ ___
 
 ## Reading List
 
-[1] [An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins)](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
+[1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
-[2] [Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore)](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
+[2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
