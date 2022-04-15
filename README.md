@@ -10,7 +10,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics%20and%20Data%20Visualisation.ipynb)
 
-1.2 - Introduction to Data Visualisation **[In Progress]**
+1.2 - Basic Data Visualisation **[In Progress]**
 
 1.3 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
 
@@ -32,7 +32,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 2.1 - [Introduction to Machine Learning](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Machine%20Learning%20Fundamentals/2.1%20-%20Introduction%20to%20Machine%20Learning.ipynb)
 
-2.2 - The Data Science Pipline
+2.2 - The Data Science Pipeline
 
 2.3 - Eigenvectors and Eigenvalues
 
