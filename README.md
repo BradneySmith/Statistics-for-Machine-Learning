@@ -8,15 +8,15 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Chapter 1 - Statistics Fundamentals
 
-1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics%20and%20Data%20Visualisation.ipynb)
+1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics.ipynb)
 
-1.2 - Basic Data Visualisation **[In Progress]**
+1.2 - [Basic Data Visualisation](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb)
 
-1.3 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
+1.3 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
 
 1.4 - The Standard Normal Distribution and Z-Scores
 
-1.5 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.4%20-%20Sampling%20a%20Distribution%20%26%20Bessel's%20Correction.ipynb)
+1.5 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.5-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
 
 1.6 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
 
