@@ -12,19 +12,15 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.2 - [Basic Data Visualisation](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb)
 
-1.3 - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb)
+1.3 - Histograms and Probability Density Functions **[In Progress]**
 
-1.4 - The Standard Normal Distribution and Z-Scores
+1.4 - Distributions in Data **[In Progress]**
 
 1.5 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.5-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
 
-1.6 - The Basics of Hypothesis Testing and p-Values **[In Progress]**
+1.6 - Hypothesis Testing and p-Values **[In Progress]**
 
-1.7 - Student's t-Distribution
-
-1.8 - The Binomial Distribution
-
-1.9 - The Poisson Distribution
+1.x - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb) **[This is being reworked into different and will be removed]
 
 &nbsp;
 
