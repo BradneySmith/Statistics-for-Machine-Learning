@@ -20,7 +20,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.6 - Hypothesis Testing and p-Values **[In Progress]**
 
-1.x - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb) **[This is being reworked into different and will be removed]
+1.x - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb) **[This is being reworked into different notebooks and will be removed]**
 
 &nbsp;
 
