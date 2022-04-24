@@ -87,7 +87,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ___
 
-## Reading List
+## Further Reading
 
 [1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
