@@ -12,7 +12,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.2 - [Basic Data Visualisation](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb)
 
-1.3 - Probability Distributions & Expected Values **[In Progress]**
+1.3 - [Probability Distributions & Expected Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Probability%20Distributions%20%26%20Expected%20Values.ipynb)
 
 1.4 - Distributions in Data **[In Progress]**
 
