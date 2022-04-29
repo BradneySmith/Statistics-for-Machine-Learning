@@ -20,8 +20,6 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.6 - Hypothesis Testing and p-Values **[In Progress]**
 
-1.x - [Population Parameters for Normal Distributions](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Population%20Parameters%20for%20Normal%20Distributions.ipynb) **[This is being reworked into different notebooks and will be removed]**
-
 &nbsp;
 
 ## Chapter 2 - Machine Learning Fundamentals
@@ -73,11 +71,13 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.2 - Hierarchical Clustering
 
-5.3 - Anomaly Detection
+5.3 - Kernel Density Estimation
 
-5.4 - Principal Component Analysis
+5.4 - Anomaly Detection
 
-5.5 - Dendrogram
+5.5 - Principal Component Analysis
+
+5.6 - Dendrogram
 
 &nbsp;
 
