@@ -95,7 +95,7 @@ ___
 
 [2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
 
-__
+___
 
 ## Future Work
 
