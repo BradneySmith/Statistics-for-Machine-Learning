@@ -79,7 +79,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.5 - Principal Component Analysis
 
-5.6 - Dendrogram
+5.6 - Dendrograms
 
 &nbsp;
 
@@ -94,3 +94,14 @@ ___
 [1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
 [2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
+
+__
+
+## Future Work
+
+### *Basic Data Visualisation*
+- Add Venn diagrams and time series plots
+
+### *Sampling a Distibution & Bessel's Correction*
+- Describe coefficient of variation
+- A explanation for how to sample data, and what design decisions to make
