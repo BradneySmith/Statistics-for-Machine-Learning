@@ -87,16 +87,6 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp;
 
-___
-
-## Further Reading
-
-[1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
-
-[2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
-
-___
-
 ## Future Work
 
 ### *Basic Data Visualisation*
@@ -105,3 +95,12 @@ ___
 ### *Sampling a Distibution & Bessel's Correction*
 - Describe coefficient of variation
 - A explanation for how to sample data, and what design decisions to make
+
+&nbsp;
+___
+
+## Further Reading
+
+[1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
+
+[2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
