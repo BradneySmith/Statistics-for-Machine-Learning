@@ -12,13 +12,15 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.2 - [Basic Data Visualisation](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb)
 
-1.3 - [Probability Distributions & Expected Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.3%20-%20Probability%20Distributions%20%26%20Expected%20Values.ipynb)
+1.3 - Distributions in Data **[In Progress]**
 
-1.4 - Distributions in Data **[In Progress]**
+1.4 - Probability & Baye's Theorem
 
-1.5 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.5-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
+1.5 - [Probability Distributions & Expected Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.5%20-%20Probability%20Distributions%20%26%20Expected%20Values.ipynb)
 
-1.6 - Hypothesis Testing and p-Values **[In Progress]**
+1.6 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.6-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
+
+1.7 - Hypothesis Testing and p-Values **[In Progress]**
 
 &nbsp;
 
