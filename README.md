@@ -101,6 +101,6 @@ ___
 
 ## Further Reading
 
-[1] An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins) [link](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
+[1] [An Introduction to the Science of Statistics: From Theory to Implementation - Preliminary Edition (Joseph C. Watkins)](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
-[2] Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore) [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
+[2] [Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore)](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
