@@ -89,6 +89,9 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Future Work
 
+### *Introduction to Statistics*
+- Update reference to Sampling a Distribution & Bessel's Correction
+
 ### *Basic Data Visualisation*
 - Add Venn diagrams and time series plots
 
