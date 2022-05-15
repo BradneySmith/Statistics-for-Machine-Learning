@@ -20,7 +20,9 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.6 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.6-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
 
-1.7 - Hypothesis Testing and p-Values **[In Progress]**
+1.7 - Student's t-Distribution
+
+1.8 - Hypothesis Testing and p-Values **[In Progress]**
 
 &nbsp;
 
