@@ -16,15 +16,16 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.4 - [Probability Distributions & Expected Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.4%20-%20Probability%20Distributions%20%26%20Expected%20Values.ipynb)
 
-1.5 - Distributions in Data **[In Progress]**
+1.5 - Distributions in Data
 
-1.6 - [Sampling a Distribution & Bessel's Correction](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.6-%20Sampling%20a%20Distribution%20&%20Bessel's%20Correction.ipynb)
+1.6 - Sampling Distributions & Estimators
 
-1.7 - Student's t-Distribution
+1.7 - Confidence Intervals & t-Distributions
 
-1.8 - Hypothesis Testing and p-Values **[In Progress]**
+1.8 - Hypothesis Testing & p-Values
 
 &nbsp;
+
 
 ## Chapter 2 - Machine Learning Fundamentals
 
@@ -39,6 +40,7 @@ This repository began as a collection of notebooks covering statistics topics th
 2.5 - Backpropagation
 
 &nbsp;
+
 
 ## Chapter 3 - Supervised Learning: Regression
 
@@ -69,6 +71,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp; 
 
+
 ## Chapter 5 - Unsupervised Learning
 
 5.1 - K-Means Clustering
@@ -85,9 +88,11 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp;
 
+
 ## Chapter 6 - Neural Networks and Deep Learning
 
 &nbsp;
+
 
 ## Future Work
 
