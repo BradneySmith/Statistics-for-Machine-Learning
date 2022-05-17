@@ -18,7 +18,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.5 - Distributions in Data
 
-1.6 - Sampling Distributions & Estimators
+1.6 - [Sampling Distributions & Estimators](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.6%20-%20Sampling%20Distributions%20%26%20Estimators.ipynb)
 
 1.7 - Confidence Intervals & t-Distributions
 
