@@ -16,7 +16,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.4 - [Probability Distributions & Expected Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.4%20-%20Probability%20Distributions%20%26%20Expected%20Values.ipynb)
 
-1.5 - Distributions in Data
+1.5 - Distributions in Data (Including Log Normal Distributions)
 
 1.6 - [Sampling Distributions & Estimators](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.6%20-%20Sampling%20Distributions%20%26%20Estimators.ipynb)
 
