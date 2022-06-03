@@ -74,9 +74,9 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Chapter 5 - Unsupervised Learning
 
-5.1 - K-Means Clustering
+5.1 - Hierarchical Clustering
 
-5.2 - Hierarchical Clustering
+5.2 - K-Means Clustering
 
 5.3 - Kernel Density Estimation
 
