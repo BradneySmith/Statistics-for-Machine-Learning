@@ -67,29 +67,34 @@ This repository began as a collection of notebooks covering statistics topics th
 
 4.3 - Support Vector Machines
 
-4.4 - Random Forests
+4.4 - Decision Trees
+
+4.5 - Random Forests
 
 &nbsp; 
 
 
 ## Chapter 5 - Unsupervised Learning
 
-5.1 - Hierarchical Clustering
+5.1 - K-Means Clustering
 
-5.2 - K-Means Clustering
+5.2 - Hierarchical Clustering
 
-5.3 - Kernel Density Estimation
+5.3 - Gaussian Mixture Models
 
 5.4 - Anomaly Detection
 
 5.5 - Principal Component Analysis
 
-5.6 - Dendrograms
+5.6 - Kernel Density Estimation
 
 &nbsp;
 
+## Chapter 6 - Evolutionary Algorithms
 
-## Chapter 6 - Neural Networks and Deep Learning
+&nbsp;
+
+## Chapter 7 - Neural Networks and Deep Learning
 
 &nbsp;
 
