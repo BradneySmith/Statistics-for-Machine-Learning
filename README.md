@@ -6,6 +6,23 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp;
 
+## Repository Highlights
+
+<table>
+<thead>
+  <tr>
+    <th>&lt;img width="1106" alt="image" src="https://user-images.githubusercontent.com/39648391/172399826-c8fb6b14-3004-4cff-80cb-4c652508e46c.png"&gt;</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>k-Means Clustering algorithm written in Python, implementing k-Means++ intelligent centroid spacing.</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 ## Chapter 1 - Statistics Fundamentals
 
 1.1 - [Introduction to Statistics](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.1%20-%20Introduction%20to%20Statistics.ipynb)
