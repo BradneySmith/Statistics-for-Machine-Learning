@@ -10,7 +10,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 | <img width="1106" alt="image" src="https://user-images.githubusercontent.com/39648391/172399826-c8fb6b14-3004-4cff-80cb-4c652508e46c.png"> | <img width="1111" alt="image" src="https://user-images.githubusercontent.com/39648391/172665123-e024ae6c-a5c2-49e5-86a2-e7fcdca40083.png"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
-|                    k-Means Clustering algorithm written in Python, implementing k-Means++ intelligent centroid spacing.                    |                                     Agglomerative Hierarchical Clustering algorithm written in Python.                                     |
+|                    k-Means Clustering algorithm written in Python, implementing k-Means++ intelligent centroid spacing.                    |                  Agglomerative Hierarchical Clustering algorithm written in Python, offering 4 different linkage methods.                  |
 
 &nbsp;
 
