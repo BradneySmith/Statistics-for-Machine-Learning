@@ -90,11 +90,13 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.3 - Gaussian Mixture Models
 
-5.4 - Anomaly Detection
+5.4 - DBSCAN Clustering
 
-5.5 - Principal Component Analysis
+5.5 - Anomaly Detection
 
-5.6 - Kernel Density Estimation
+5.6 - Principal Component Analysis
+
+5.7 - Kernel Density Estimation
 
 &nbsp;
 
