@@ -86,7 +86,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.1 - [K-Means Clustering](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%205%20-%20Unsupervised%20Learning/5.1%20-%20k-Means%20Clustering.ipynb)
 
-5.2 - Hierarchical Clustering
+5.2 - [Hierarchical Agglomerative Clustering](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%205%20-%20Unsupervised%20Learning/5.2%20-%20Hierarchical%20Agglomerative%20Clustering.ipynb)
 
 5.3 - Gaussian Mixture Models
 
