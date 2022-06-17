@@ -131,3 +131,5 @@ ___
 [2] [Introduction to Statistics and Data Analysis - 3rd Edition (Roxy Peck, Chris Olsen, Jay Devore)](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/859/Statistics%20Textbook.pdf)
 
 [3] [An Introduction to Probability and Simulation (Kevin Ross)](https://bookdown.org/kevin_davisross/probsim-book/)
+
+[4] [The Elements of Statistical Learning - Data Mining, Inference and Prediction, Second Edition (Hastie et al)](https://hastie.su.domains/Papers/ESLII.pdf)
