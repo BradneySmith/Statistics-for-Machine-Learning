@@ -39,13 +39,15 @@ This repository began as a collection of notebooks covering statistics topics th
 
 2.1 - [Introduction to Machine Learning](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Machine%20Learning%20Fundamentals/2.1%20-%20Introduction%20to%20Machine%20Learning.ipynb)
 
-2.2 - The Data Science Pipeline
+2.2 - Model Evaluation Metrics
 
-2.3 - Eigenvectors and Eigenvalues
+2.3 - The Data Science Pipeline
 
-2.4 - Gradient Descent
+2.4 - Eigenvectors and Eigenvalues
 
-2.5 - Backpropagation
+2.5 - Gradient Descent
+
+2.6 - Backpropagation
 
 &nbsp;
 
