@@ -62,7 +62,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 3.4 - Multiple Regression
 
-3.5 - Spearman's Rank Correlation
+3.5 - Regression Trees
 
 3.6 - Quantile Regression
 
@@ -77,7 +77,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 4.3 - Support Vector Machines
 
-4.4 - Decision Trees
+4.4 - Classification Trees
 
 4.5 - Random Forests
 
