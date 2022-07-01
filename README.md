@@ -62,7 +62,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 3.4 - Multiple Regression
 
-3.5 - Regression Trees
+3.5 - [Regression Trees](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.5%20-%20Regression%20Trees.ipynb)
 
 3.6 - Quantile Regression
 
@@ -102,11 +102,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 &nbsp;
 
-## Chapter 6 - Evolutionary Algorithms
-
-&nbsp;
-
-## Chapter 7 - Neural Networks and Deep Learning
+## Chapter 6 - Neural Networks and Deep Learning
 
 &nbsp;
 
@@ -135,3 +131,5 @@ ___
 [3] [An Introduction to Probability and Simulation (Kevin Ross)](https://bookdown.org/kevin_davisross/probsim-book/)
 
 [4] [The Elements of Statistical Learning - Data Mining, Inference and Prediction, Second Edition (Hastie et al)](https://hastie.su.domains/Papers/ESLII.pdf)
+
+[5] [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable, Second Edition (Christoph Molnar)](https://christophm.github.io/interpretable-ml-book/tree.html)
