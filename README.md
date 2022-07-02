@@ -32,6 +32,10 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.8 - Hypothesis Testing & p-Values
 
+1.9 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
+
+1.10 - [Pearson's Correlation Coefficient and R Squared](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.2%20-%20Pearson's%20Correlation%20Coefficient%20and%20R%20Squared.ipynb)
+
 &nbsp;
 
 
@@ -41,30 +45,20 @@ This repository began as a collection of notebooks covering statistics topics th
 
 2.2 - Model Evaluation Metrics
 
-2.3 - The Data Science Pipeline
-
-2.4 - Eigenvectors and Eigenvalues
-
-2.5 - Gradient Descent
-
-2.6 - Backpropagation
+2.3 - Machine Learning Pipelines
 
 &nbsp;
 
 
 ## Chapter 3 - Supervised Learning: Regression
 
-3.1 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
+3.1 - [Simple Linear Regression](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.3%20-%20Least%20Squares%20and%20Simple%20Linear%20Regression.ipynb)
 
-3.2 - [Pearson's Correlation Coefficient and R Squared](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.2%20-%20Pearson's%20Correlation%20Coefficient%20and%20R%20Squared.ipynb)
+3.2 - Multiple Regression
 
-3.3 - [Least Squares and Simple Linear Regression](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.3%20-%20Least%20Squares%20and%20Simple%20Linear%20Regression.ipynb)
+3.3 - [Regression Trees](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.5%20-%20Regression%20Trees.ipynb)
 
-3.4 - Multiple Regression
-
-3.5 - [Regression Trees](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.5%20-%20Regression%20Trees.ipynb)
-
-3.6 - Quantile Regression
+3.4 - Quantile Regression
 
 &nbsp;
 
