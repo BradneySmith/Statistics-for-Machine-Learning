@@ -67,7 +67,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 4.1 - Logistic Regression
 
-4.2 - k-Nearest Neighbors
+4.2 - [k-Nearest Neighbors](https://github.com/BradneySmith/k-Nearest-Neighbors/blob/main/Digit%20Recognition.ipynb)
 
 4.3 - Support Vector Machines
 
