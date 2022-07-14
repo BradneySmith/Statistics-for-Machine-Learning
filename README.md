@@ -43,9 +43,11 @@ This repository began as a collection of notebooks covering statistics topics th
 
 2.1 - [Introduction to Machine Learning](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%202%20-%20Machine%20Learning%20Fundamentals/2.1%20-%20Introduction%20to%20Machine%20Learning.ipynb)
 
-2.2 - Model Evaluation Metrics
+2.2 - Bias vs Variance Trade-off
 
-2.3 - Machine Learning Pipelines
+2.3 - Model Evaluation Metrics
+
+2.4 - Machine Learning Pipelines
 
 &nbsp;
 
