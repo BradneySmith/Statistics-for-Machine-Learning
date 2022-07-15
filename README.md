@@ -60,7 +60,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 3.3 - [Regression Trees](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.5%20-%20Regression%20Trees.ipynb)
 
-3.4 - Quantile Regression
+3.4 - Random Forests
 
 &nbsp;
 
@@ -71,11 +71,13 @@ This repository began as a collection of notebooks covering statistics topics th
 
 4.2 - [k-Nearest Neighbor Classifier](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%204%20-%20Supervised%20Learning:%20Classification/4.2%20-%20k-Nearest%20Neighbors%20Classifier.ipynb)
 
-4.3 - Support Vector Machines
+4.3 - Naive Bayes
 
-4.4 - Classification Trees
+4.4 - Support Vector Machines
 
-4.5 - Random Forests
+4.5 - Classification Trees
+
+
 
 &nbsp; 
 
@@ -86,15 +88,10 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.2 - [Hierarchical Agglomerative Clustering](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%205%20-%20Unsupervised%20Learning/5.2%20-%20Hierarchical%20Agglomerative%20Clustering.ipynb)
 
-5.3 - Gaussian Mixture Models
+5.3 - Association Learning & Market Basket Analysis **[In progress]**
 
-5.4 - DBSCAN Clustering
+5.4 - Principle Component Analysis
 
-5.5 - Anomaly Detection
-
-5.6 - Principal Component Analysis
-
-5.7 - Kernel Density Estimation
 
 &nbsp;
 
@@ -129,3 +126,5 @@ ___
 [4] [The Elements of Statistical Learning - Data Mining, Inference and Prediction, Second Edition (Hastie et al)](https://hastie.su.domains/Papers/ESLII.pdf)
 
 [5] [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable, Second Edition (Christoph Molnar)](https://christophm.github.io/interpretable-ml-book/tree.html)
+
+[6] [Introduction to Data Mining - Second Edition (Pang-Ning Tan et al)](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
