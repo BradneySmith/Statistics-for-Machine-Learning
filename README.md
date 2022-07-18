@@ -30,7 +30,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 1.7 - Confidence Intervals & t-Distributions
 
-1.8 - Hypothesis Testing & p-Values
+1.8 - [Hypothesis Testing & p-Values](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.8%20-%20Hypothesis%20Testing%20and%20p-Values.ipynb)
 
 1.9 - [Covariance and the Covariance Matrix](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%203%20-%20Supervised%20Learning:%20Regression/3.1%20-%20Covariance%20and%20the%20Covariance%20Matrix.ipynb)
 
