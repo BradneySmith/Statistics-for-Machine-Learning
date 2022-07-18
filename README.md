@@ -88,7 +88,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 5.2 - [Hierarchical Agglomerative Clustering](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%205%20-%20Unsupervised%20Learning/5.2%20-%20Hierarchical%20Agglomerative%20Clustering.ipynb)
 
-5.3 - Association Learning & Market Basket Analysis **[In progress]**
+5.3 - [Association Learning & Market Basket Analysis](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%205%20-%20Unsupervised%20Learning/5.3%20-%20Association%20Learning%20%26%20Market%20Basket%20Analysis.ipynb)
 
 5.4 - Principle Component Analysis
 
