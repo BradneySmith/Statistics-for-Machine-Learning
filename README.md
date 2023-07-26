@@ -106,8 +106,7 @@ This repository began as a collection of notebooks covering statistics topics th
 
 ## Chapter 7 - Large Language Models
 
-6.1 - [Multi-Layer Perceptrons](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%206%20-%20Neural%20Networks%20and%20Deep%20Learning/6.1%20-%20Multi-Layer%20Perceptrons.ipynb)
-
+7.1 - Introduction to Large Language Models
 
 &nbsp;
 
