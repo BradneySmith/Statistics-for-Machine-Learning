@@ -108,6 +108,8 @@ This repository began as a collection of notebooks covering statistics topics th
 
 7.1 - Introduction to Large Language Models
 
+7.2 - [Tokenization](https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%207%20-%20Natural%20Language%20Processing/7.2%20-%20Tokenization.ipynb)
+
 &nbsp;
 
 
