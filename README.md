@@ -104,7 +104,7 @@ This repository began as a collection of notebooks covering statistics topics th
 &nbsp;
 
 
-## Chapter 7 - Large Language Models
+## Chapter 7 - Natural Language Processing
 
 7.1 - Introduction to Large Language Models
 
